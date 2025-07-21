@@ -44,14 +44,6 @@ These visualizations help uncover trends and anomalies in Bangladesh’s educati
 - **Matplotlib & Seaborn** for visualization
 - **Jupyter/Kaggle Notebook** environment
 
-## 📂 Folder Structure
-
-ssc-exam-trends-bangladesh/
-│
-├── ssc_exam_analysis.ipynb # Main analysis notebook
-├── cleaned_dataset.csv (optional)
-├── README.md # Project documentation
-
 
 ## 🚀 How to Use
 
