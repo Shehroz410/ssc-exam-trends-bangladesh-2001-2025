@@ -57,28 +57,7 @@ ssc-exam-trends-bangladesh/
 
 1. Clone the repository:
 
-```
+```bash
 git clone https://github.com/your-username/ssc-exam-trends-bangladesh.git
 cd ssc-exam-trends-bangladesh
-'''
 
-Open the Jupyter notebook (ssc_exam_analysis.ipynb) locally or in a Kaggle environment.
-
-Run the notebook cells to view preprocessing steps and final visualizations.
-
-🧠 Future Improvements
-📅 Add forecasting using Prophet to predict future pass rates or GPA 5 achievers.
-
-🧩 Combine SSC with HSC or PSC datasets for a complete education lifecycle trend.
-
-💻 Build an interactive dashboard using Streamlit or Plotly Dash.
-
-📜 License
-This project is released under the MIT License — free to use, distribute, and modify with attribution.
-
-👏 Acknowledgments
-Dataset by: Hasanul Banna Himel on Kaggle
-
-Analysis by: [Your Name or GitHub Handle]
-
-🙌 If you find this project useful, don't forget to ⭐️ the repository!
